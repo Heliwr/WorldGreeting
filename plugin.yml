@@ -1,0 +1,10 @@
+name: WorldGreeting
+main: com.github.Heliwr.WorldGreeting.WorldGreeting
+author: Heliwr
+version: 0.1
+description: >
+             Configurable world-specific greetings.
+commands:
+  worldgreeting:
+    description: WorldGreeting control
+    usage: /<command> reload
